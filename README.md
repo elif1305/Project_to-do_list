@@ -9,10 +9,7 @@ Project aims to create a simple To-Do App.
 
 At the end of the this project,
 
-- analyze a problem, create e-commerce website page.
-
-- demonstrate their knowledge of algorithmic design principles for dynamic calculation of product's cart.
-
+- analyze a problem, create a simple To-Do App.
    
 ## Problem Statement
 
